@@ -2,7 +2,7 @@
 Hi! I’m Max. Over the years, I’ve contributed to various think tanks, collaborating with companies both large and small to bring innovative apps to life. As someone who thrives on ideas, I’ve always enjoyed turning concepts into reality. Now, I’m channeling that experience into building my own creations.
 
 ## 🔧 What I’m Building
-I'm currently working on SimpleToolSuite, a modular Python application with plugin support, designed to prioritize user-driven customization and lightweight tools. My development approach emphasizes efficiency, intuitive design, and giving users he flexability to tailor the tool to their needs.
+I'm currently working on [SimpleToolSuite](https://github.com/stars/MaxTheSpy/lists/simple-tool-suite), a modular Python application with plugin support, designed to prioritize user-driven customization and lightweight tools. My development approach emphasizes efficiency, intuitive design, and giving users he flexability to tailor the tool to their needs.
 
 I've always has a light distaste of "Mega-apps" that cram hundreds or even thousands of utilities into a single platform, leaving users stuck with features they'll never need or use while making the features they do use harder to find and access on a normal basis. These bloated systems grow larger with every update, sacrificing simplicity and efficiency.
 

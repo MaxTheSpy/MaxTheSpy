@@ -2,11 +2,11 @@
 Hi! I’m Max. Over the years, I’ve contributed to various think tanks, collaborating with companies both large and small to bring innovative apps to life. As someone who thrives on ideas, I’ve always enjoyed turning concepts into reality. Now, I’m channeling that experience into building my own creations.
 
 ## 🔧 What I’m Building
-I'm currently working on [SimpleToolSuite](https://github.com/stars/MaxTheSpy/lists/simple-tool-suite), a modular Python application with plugin support, designed to prioritize user-driven customization and lightweight tools. My development approach emphasizes efficiency, intuitive design, and giving users he flexability to tailor the tool to their needs.
+I am currently working on a passion project simply called AirlineSim (Name in progress). Around 2010 I found a game called CyberAirlines, a game where you purchase hubs, buy airplanes, schedule flights and gain reputation in your area. I quickly became even more obsessed with airplanes than I already was. Just a few short years after I started playing CyberAirlines died and left a hole in my heart. I tried many other airline sims out there and while some were good, they didnt quite hit the spot.
 
-I've always has a light distaste of "Mega-apps" that cram hundreds or even thousands of utilities into a single platform, leaving users stuck with features they'll never need or use while making the features they do use harder to find and access on a normal basis. These bloated systems grow larger with every update, sacrificing simplicity and efficiency.
+The airline sim that I am working on takes the core pricipals of CyberAirlines and a few other basic sims, and merges them with new ideas, a new ui, and a new kind of fun. In my sim you will step into the role of an airline ceo/operations manager. The game UI is a desktop style interface with apps you can open close and scale, customize your desktop the way you want!
 
-With SimpleToolSuite, you're in control. Add or remove functionality as you see fit. Keeping our setup as streamlined or feature-rich as you prefer. It's all about giving you the freedom to build a tool that works for you, not the other way around.
+I would not call myself a GameDev, just a guy who wants to bring his dreams to life. The code is almost always broken, and buggy, tuning isnt quite right, but its playable and getting better every week.
 
 ## 🌟 What I’m Passionate About
 

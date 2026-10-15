@@ -1,12 +1,13 @@
 ## 👋 About Me
 Hi! I’m Max. Over the years, I’ve contributed to various think tanks, collaborating with companies both large and small to bring innovative apps to life. As someone who thrives on ideas, I’ve always enjoyed turning concepts into reality. Now, I’m channeling that experience into building my own creations.
 
-## 🔧 What I’m Building
-I am currently working on a passion project simply called AirlineSim (Name in progress). Around 2010 I found a game called CyberAirlines, a game where you purchase hubs, buy airplanes, schedule flights and gain reputation in your area. I quickly became even more obsessed with airplanes than I already was. Just a few short years after I started playing CyberAirlines died and left a hole in my heart. I tried many other airline sims out there and while some were good, they didnt quite hit the spot.
+## 🐝 What I'm building: [AmbleBee](https://amblebee.com)
 
-The airline sim that I am working on takes the core pricipals of CyberAirlines and a few other basic sims, and merges them with new ideas, a new ui, and a new kind of fun. In my sim you will step into the role of an airline ceo/operations manager. The game UI is a desktop style interface with apps you can open close and scale, customize your desktop the way you want!
+**AmbleBee** is a little camera that gives you something to go do. Pick date night or adventure, and the Amblebee rolls a mission: a real place to visit, or something to try anywhere. The mission shows on its e-ink screen, and you take it with you to capture the day. When you get home, you set it on the **Hive**, a frame and dock that charges it and collects the photos. The Hive turns each finished mission into a memory you can look back on.
 
-I would not call myself a GameDev, just a guy who wants to bring his dreams to life. The code is almost always broken, and buggy, tuning isnt quite right, but its playable and getting better every week.
+The missions are open. Every one lives in [`amblebee-missions`](https://github.com/AmbleBee/amblebee-missions) as its own YAML file, grouped into state packs like Amble Oregon and Amble New York, plus Amble Anywhere for things you can do wherever you are. You can roll one right now at **[amblebee.com](https://amblebee.com)**, no camera needed.
+
+It's built to be self-hosted and private: no accounts, no trackers, and your photos stay on your own hardware. Know a great spot? [Share a mission](https://amblebee.com) and it might end up in a pack.
 
 ## 🌟 What I’m Passionate About
 
